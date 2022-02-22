@@ -14,6 +14,6 @@ Current tecnologies and tools:
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.pikpng.com/pngl/m/217-2172365_bootstrap-featured-image-bootstrap-3-logo-png-clipart.png" height="50" /></a> 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/officel/80/000000/json.png" height="50" /></a> 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" height="50" /></a> 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/ios/150/000000/github--v2.png" height="50" /></a> 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color-glass/150/000000/github.png" height="50" /></a> 
 
 
