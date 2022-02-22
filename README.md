@@ -12,4 +12,4 @@ Current tecnologies and tools:
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44717272/155236102-da189075-f5d4-4021-9af5-67cd8ea8814c.png" height="50" /></a> 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/git.png" height="50" /></a> 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.pikpng.com/pngl/m/217-2172365_bootstrap-featured-image-bootstrap-3-logo-png-clipart.png" height="50" /></a> 
-<a href="URL_REDIRECT" target="blank"><img align="center"src="https://img.icons8.com/officel/80/000000/json.png" height="50" /></a> 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/officel/80/000000/json.png" height="50" /></a> 
