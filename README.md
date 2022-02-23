@@ -4,7 +4,7 @@ I am Stéfano, a System Information student with a knack for software developmen
 
 Currently working for SAP as a Product Support Specialist and having fun while learning how to be a better programmer.
 
-Enthusiastic for innovation and new technologies since I was a kid, I developed myself with self-taught abilities and soon showed interested for Information Technology area. As an development and IT student since 2017, I have found myself as a passionate for web development and the whole JS universe :)
+Enthusiastic for innovation and new technologies since I was a kid, I developed myself with self-taught abilities and soon showed interested for Information Technology area. As an development and IT student since 2017, I have found myself as a passionate for web development and the whole JS universe, always willing to learn new stuff :)
 
 My hobbies include:
 
