@@ -1,4 +1,4 @@
-👋 Hello World!👋
+#👋 Hello World!👋
 
 I am Stéfano, a System Information student with a knack for software development!
 
