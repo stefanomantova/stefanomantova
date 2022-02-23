@@ -9,6 +9,8 @@ Enthusiastic for innovation and new technologies since I was a kid, I developed 
 My hobbies include:
 
 - Gaming 
+- Cars &#128663
+- Running
 
 # Current tecnologies and tools:
 
