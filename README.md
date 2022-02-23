@@ -10,7 +10,7 @@ My hobbies include:
 
 - Gaming 🎮
 - Cars 🏎️
-- Running
+- Running 🏃‍♂️
 
 # Current tecnologies and tools:
 
