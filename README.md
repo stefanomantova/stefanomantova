@@ -9,7 +9,7 @@ Enthusiastic for innovation and new technologies since I was a kid, I developed 
 My hobbies include:
 
 - Gaming 
-- Cars U+1F697
+- Cars (U+1F697)
 - Running
 
 # Current tecnologies and tools:
