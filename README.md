@@ -24,7 +24,3 @@ My hobbies include:
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/officel/80/000000/json.png" height="50" /></a> 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" height="50" /></a> 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/npm.png" height="50" /></a> 
-
-
-
-Find my pinned repositories below where you can check for some of my projects and exercises.
