@@ -1,6 +1,6 @@
 # 👋 Hello World!👋
 
-I am Stéfano, a System Information student with a knack for software development!
+I am Stéfano, bachelor's degree in System Information with a knack for software development!
 
 Currently working for SAP as a Software Developer and having fun while learning how to be a better programmer.
 
